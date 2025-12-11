@@ -37,7 +37,7 @@ console.log(multiply(5, 6));
 
 const person = {
     name: "Ranjan Basnet",
-    age: 22,
+    age: 20,
     country: "Nepal"
 };
 
